@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 Bravehear
 sollan var her
-
 The Matrix
 Braveheart
 The Social Network
 Mamma GOGO
-=======
 The Matrix
 Braveheart
 The Social Netwok
@@ -20,4 +17,8 @@ Braveheart
 The Social Network
 Mamma GOGO
 LoL hvad allir eru snidugir
->>>>>>> fe3003577337649e15d564b862bbab732cad5d02
+The Matrix
+Braveheart
+The Social Network
+Mamma GOGO
+Toy Story
